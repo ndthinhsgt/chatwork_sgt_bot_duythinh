@@ -1,4 +1,4 @@
-# SGT Chatwork Bot
+# SGT Chatwork Bot Thinh
 
 A modular, extensible chatbot for SGT Team that responds to mentions in Chatwork rooms and performs predefined actions.
 
